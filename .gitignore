@@ -1,0 +1,11 @@
+node_modules
+.vscode
+tmp/*
+coverage
+.env
+!tmp/.gitkeep
+dist
+ormconfig.json
+yarn.lock
+yarn-error.log
+docker-compose-example.yml
